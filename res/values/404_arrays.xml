@@ -63,6 +63,7 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
 
     <!-- FOD Recognizing fingerprint animations -->
     <string-array  name="fod_recog_animation_entries" translatable="false">

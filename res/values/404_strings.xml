@@ -284,4 +284,8 @@
      <!-- Ambient battery -->
     <string name="ambient_battery_percent_title">Battery level on bottom</string>
     <string name="ambient_battery_percent_summary">Enable to show battery percent while dozing</string>
+     
+     <!-- Pocket mode -->
+    <string name="proximity_wake_title">Prevent accidental wake-up</string>
+    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
 </resources>
