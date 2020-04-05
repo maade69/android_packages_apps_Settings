@@ -272,4 +272,7 @@
     <string name="fod_recog_animation_rog_fusion">Fusion</string>
     <string name="fod_recog_animation_rog_pulsar">Pulsar</string>
     <string name="fod_recog_animation_rog_supernova">Supernova</string>
+         
+     <!-- Battery light -->
+    <string name="battery_light_title">Turn on the light when charging</string>
 </resources>
