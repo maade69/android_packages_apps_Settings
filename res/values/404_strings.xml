@@ -239,4 +239,8 @@
     <string name="signature_spoofing_title">Allow signature spoofing</string>
     <string name="signature_spoofing_summary">Enables signature spoofing for micorG</string>
 
+    
+     <!-- Screen off fod -->
+    <string name="fod_gesture_title">Unlock with fingerprint when the screen is off</string>
+    <string name="fod_gesture_summary">Allows unlocking the device without having to wake up the screen first</string>
 </resources>
