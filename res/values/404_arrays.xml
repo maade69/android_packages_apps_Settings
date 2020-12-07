@@ -91,6 +91,7 @@
         <item>@string/fod_recog_animation_rog_fusion</item>
         <item>@string/fod_recog_animation_rog_pulsar</item>
         <item>@string/fod_recog_animation_rog_supernova</item>
+        <item>@string/fod_recog_animation_mi_a3</item>
     </string-array>
 
     <string-array name="fod_recog_animation_values" translatable="false">
@@ -118,6 +119,7 @@
         <item>21</item>
         <item>22</item>
         <item>23</item>
+        <item>24</item>
     </string-array>
 
     <!-- Statusbar Clock -->
